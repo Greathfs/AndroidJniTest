@@ -66,3 +66,6 @@ JNIEXPORT jstring JNICALL Java_com_wz_androidjnitest_ndk_NdkTest_ndkSayHello
 
 
  OK,完成了
+
+参考文章：http://www.cnblogs.com/wzben/p/5733571.html
+http://blog.csdn.net/lixiaovip/article/details/49102079
